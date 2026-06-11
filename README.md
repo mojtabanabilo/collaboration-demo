@@ -20,3 +20,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 4. Submit a pull request
 5. Wait for review
 6. Merge after approval
+New Feature:
+This feature demonstrates GitHub collaboration,
+branching, pull requests and reviews.

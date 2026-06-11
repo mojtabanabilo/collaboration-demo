@@ -1,2 +1,5 @@
 Collaboration Demo Project
 Version 1.0
+
+New Feature:
+This feature demonstrates GitHub collaboration.
